@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RecyclerViewGmail</string>
+    <string name="gmail">Gmail</string>
 </resources>
