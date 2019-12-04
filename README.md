@@ -1,4 +1,4 @@
-# GmailRecycleView
+# GmailRecyclerView
 Projeto em Kotlin utilizando recycleview simulando o layout do GMAIL
 
 O projeto conta com inserts utilizando a api do Moov-it Fakeit
